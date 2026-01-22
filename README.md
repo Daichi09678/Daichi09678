@@ -16,3 +16,5 @@
 [![](https://visitcount.itsvg.in/api?id=Daichi09678&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![amane](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFvaGFxN3FhM2lxYWh2bzRoZ3lnZmdodWV0d29xNG5lOW92bHVsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yZ8PEJw0SbQAiWIB5B/giphy.gif)
