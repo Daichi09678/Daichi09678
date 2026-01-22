@@ -21,10 +21,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daichi09678&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFvaGFxN3FhM2lxYWh2bzRoZ3lnZmdodWV0d29xNG5lOW92bHVsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yZ8PEJw0SbQAiWIB5B/giphy.gif" width="250"/>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VndjFmbTV5dDk0YXNkNGxsMGJpeDRtNHV1NTdydHd0cXZpajI3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQUJBBWdybhKTykygq/giphy.gif" width="250"/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanIza3R4MWVoM3E3ZzI2NDRjZGprenpnM3M4cmdzZHE3ZGNyeTFreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7SN7VRxzzcby9nyKJV/giphy.gif" width="250"/>
+  <img src="https://raw.githubusercontent.com/Daichi09678/Daichi09678/main/assets/gif/Girl Eye GIF" width="250"/>
+  <img src="https://raw.githubusercontent.com/Daichi09678/Daichi09678/main/assets/gif/Happy Girl GIF" width="250"/>
+  <img src="https://raw.githubusercontent.com/Daichi09678/Daichi09678/main/assets/gif/Happy Girl GIF (1)" width="250"/>
 </p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Daichi09678&icon=0&color=0)](https://visitcount.itsvg.in)
