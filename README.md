@@ -16,11 +16,11 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Daichi09678&theme=dark&hide_border=false&include_all_commits=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Daichi09678&theme=dark&hide_border=false&include_all_commits=true&show_icons=true&cache_seconds=3600)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Daichi09678&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daichi09678&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daichi09678&theme=dark&hide_border=false&layout=compact&cache_seconds=3600)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daichi09678/Daichi09678/main/assets/gif/girl-eye.gif" width="250"/>
